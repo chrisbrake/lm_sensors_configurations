@@ -1,0 +1,8 @@
+chip "it8728-isa-0228"
+    label fan1 "CPU_FAN"
+    label fan2 "SYS_FAN1"
+    label fan3 "SYS_FAN2"
+    label fan4 "PWE_FAN"
+    
+chip "k10temp-pci-00c3"
+    label temp1 "CPU Temp"
